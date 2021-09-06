@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bmarchiori
-- 👀 I’m interested in Tech and Management
+- 👀 I’m interested in Education, Tech and Management
 - 🌱 I’m currently learning Data Science, BI and Python
-- 💞️ I’m looking to collaborate on GitHub
+- 💞️ I’m looking to collaborate on GitHub and teaching practices
 - 📫 How to reach me https://www.linkedin.com/in/bmarchiorisouto
 
 <!---
